@@ -1,4 +1,4 @@
-// talon-utilities/sillystrings/noiseref__release_cpp_stl.cpp
+// talon-utilities/ropes/noiseref__release_cpp_stl.cpp
 /**
  * @file noiseref__release_cpp_stl.cpp
  * @brief Minimal C++ program using STL for release reference.

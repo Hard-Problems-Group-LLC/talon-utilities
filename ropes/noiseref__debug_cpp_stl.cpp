@@ -1,4 +1,4 @@
-// talon-utilities/sillystrings/noiseref__debug_cpp_stl.cpp
+// talon-utilities/ropes/noiseref__debug_cpp_stl.cpp
 /**
  * @file noiseref__debug_cpp_stl.cpp
  * @brief Minimal C++ program using STL for debug reference.

@@ -1,6 +1,6 @@
-// talon-utilities/sillystrings/sillystrings.cpp
+// talon-utilities/ropes/ropes.cpp
 /**
- * @file sillystrings.cpp
+ * @file ropes.cpp
  * @brief Extracts printable strings from binaries.
  *
  * In normal mode, outputs only strings not present in ~/.stringignore.json.
